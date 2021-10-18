@@ -1,6 +1,33 @@
 # Aurorabot
 
-**TODO: Add description**
+**###  Trabalho bot Aurora
+#### Comandos:
+###### Verificador de horario em locais
+comando !tz
+Exemplo
+!tz Fortaleza
+
+###### Verificador de local de  telefone
+comando !phone + Numero de telefone
+Exemplo 
+!phone 14152007986
+
+###### Verificador de email
+Comando !email + email
+Exemplo
+!email leoeuwqi@@hogmzcopm
+
+###### Verificador de vat
+Comando !vat + vat
+Exemplo 
+!vat SE556656688001
+
+###### Verificador de clima de cidades
+Comando !tempo
+Exemplo
+!tempo londres
+
+**
 
 ## Installation
 
