@@ -1,6 +1,6 @@
 # Aurorabot
 
-**###  Trabalho bot Aurora
+**###   bot Aurora - Rest APIS
 #### Comandos:
 ###### Verificador de horario em locais
 comando !tz
